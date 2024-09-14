@@ -1,0 +1,526 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-09-02 07:21:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-08-31 06:45:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2024-09-02 23:58:42 +0000",
+      "sugar_cane": "2024-08-30 05:51:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-08-31 04:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-08-31 06:08:23 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-09-01 00:32:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2024-08-31 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-08-30 05:36:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:29:53 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-08-31 06:01:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-09-03 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "pink": "2024-08-30 06:09:35 +0000",
+      "yellow": "2024-08-31 05:20:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-08-31 05:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-31 06:14:36 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-09-01 06:06:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-08-31 05:47:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-09-03 00:46:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-08-31 06:08:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2024-09-01 23:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-08-31 06:08:02 +0000",
+      "minecraft:bamboo_jungle": "2024-08-31 05:00:01 +0000",
+      "minecraft:beach": "2024-08-31 06:00:22 +0000",
+      "minecraft:dark_forest": "2024-08-31 06:22:22 +0000",
+      "minecraft:sparse_jungle": "2024-08-30 05:28:18 +0000",
+      "minecraft:dripstone_caves": "2024-09-01 01:23:02 +0000",
+      "minecraft:forest": "2024-09-03 00:58:19 +0000",
+      "minecraft:jungle": "2024-08-31 06:32:40 +0000",
+      "minecraft:windswept_savanna": "2024-09-03 00:54:45 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-31 05:48:37 +0000",
+      "minecraft:savanna": "2024-09-03 01:03:15 +0000",
+      "minecraft:plains": "2024-08-30 05:26:44 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-08-31 23:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-08-31 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-08-30 05:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-30 05:44:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-09-10 22:38:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-08-31 05:36:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-08-30 06:36:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2024-09-02 23:54:38 +0000",
+      "earth": "2024-08-31 05:38:02 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-08-31 22:13:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-09-02 00:25:44 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2024-08-31 06:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-31 04:49:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:28:16 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2024-08-31 06:33:40 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2024-08-31 06:15:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-08-30 06:09:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-08-31 06:42:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-08-30 05:26:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2024-08-30 05:48:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 23:01:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-09-02 00:27:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-09-10 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-08-31 05:29:53 +0000",
+      "minecraft:spider": "2024-08-31 04:53:04 +0000",
+      "minecraft:creeper": "2024-08-31 05:59:19 +0000",
+      "minecraft:silverfish": "2024-08-31 06:40:37 +0000",
+      "minecraft:zombie": "2024-08-31 05:11:50 +0000",
+      "minecraft:zombie_villager": "2024-08-31 05:33:10 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:28:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-09-03 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-08-31 22:13:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-08-31 04:56:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2024-09-01 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-09-01 05:49:41 +0000",
+      "cooked_mutton": "2024-08-31 04:49:05 +0000",
+      "cooked_beef": "2024-09-01 06:02:06 +0000",
+      "apple": "2024-08-31 06:30:15 +0000",
+      "bread": "2024-08-31 04:58:31 +0000",
+      "melon_slice": "2024-09-02 01:39:16 +0000",
+      "cooked_chicken": "2024-09-01 05:47:22 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:16:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-09-01 23:46:02 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-09-10 22:29:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-08-31 05:10:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 06:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-09-03 00:45:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "rock": "2024-09-02 00:27:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-09-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2024-08-31 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-08-31 06:38:31 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-30 05:26:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2024-08-30 06:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-30 05:32:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-10 22:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-31 04:58:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-08-31 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "pickaxe": "2024-09-02 00:27:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-30 05:49:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-09-03 00:03:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-09-03 00:03:00 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-08-30 05:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-30 06:42:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-09-10 22:31:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2024-09-01 23:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-08-31 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

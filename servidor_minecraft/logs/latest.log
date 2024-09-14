@@ -1,0 +1,18 @@
+[12Sep2024 01:40:23.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Sep2024 01:40:23.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[12Sep2024 01:40:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] entraste longi
+[12Sep2024 01:40:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Sep2024 01:40:39.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Sep2024 01:40:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Sep2024 01:40:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Sep2024 01:40:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Sep2024 01:40:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[12Sep2024 01:40:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Sep2024 01:40:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[12Sep2024 01:40:41.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Sep2024 01:40:41.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Sep2024 01:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[12Sep2024 01:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Sep2024 01:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12Sep2024 01:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Sep2024 01:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
