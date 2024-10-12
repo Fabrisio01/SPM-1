@@ -1,0 +1,31 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1728687422391L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 58, z: -53, time: 1728685356463L }
+			{ x: 58, z: -52, time: 1728685356463L }
+			{ x: 58, z: -51, time: 1728685356463L }
+			{ x: 57, z: -51, time: 1728685356463L }
+			{ x: 57, z: -53, time: 1728685356463L }
+			{ x: 57, z: -52, time: 1728685356463L }
+			{ x: 56, z: -52, time: 1728685356463L }
+			{ x: 56, z: -51, time: 1728685356463L }
+			{ x: 56, z: -53, time: 1728685356463L }
+			{ x: 55, z: -53, time: 1728685356462L }
+			{ x: 55, z: -52, time: 1728685356463L }
+			{ x: 55, z: -51, time: 1728685356463L }
+			{ x: 59, z: -53, time: 1728685356463L }
+			{ x: 59, z: -52, time: 1728685356463L }
+			{ x: 59, z: -51, time: 1728685356463L }
+		]
+	}
+	member_data: {
+		5725a095-1597-3c80-a316-4e95c001d47e: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+}

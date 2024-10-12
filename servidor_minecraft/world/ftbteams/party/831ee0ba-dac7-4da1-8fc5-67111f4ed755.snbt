@@ -1,0 +1,36 @@
+{
+	id: "831ee0ba-dac7-4da1-8fc5-67111f4ed755"
+	type: "party"
+	owner: "ff84096b-75b6-3980-90c1-ba41b215eb82"
+	ranks: {
+		61585d37-0b89-3153-b231-0f800fa6ce19: "member"
+		ff84096b-75b6-3980-90c1-ba41b215eb82: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "manjiareLH's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728630882285L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"manjiareLH\"}]}" }
+		{ from: "ff84096b-75b6-3980-90c1-ba41b215eb82", date: 1728630882303L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Archi7u7r\"}]}" }
+		{ from: "ff84096b-75b6-3980-90c1-ba41b215eb82", date: 1728630882303L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"sektet89\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728630885543L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Archi7u7r\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728630891498L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"sektet89\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728631656868L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Archi7u7r\"}]}" }
+	]
+	extra: { }
+}
